@@ -8,4 +8,6 @@ Nota: En caso de requerirse modelos para utilizar este procedimiento se puede ve
 Algunos ejemplos de resultados obtenidos a partir de MDE de 30 metros descargados de la página del IGN. Se puede observar que en zonas de fuerte pendiente se obtiene mejor calidad de los datos que en zonas donde la pendientes es menos abrupta o se observan cuerpos de agua.
 
 <img width="583" alt="image" src="https://user-images.githubusercontent.com/83612209/215350377-2bef0e9f-725b-49a1-9359-a3787ee33428.png">
+<img width="593" alt="image" src="https://user-images.githubusercontent.com/83612209/215350587-194e825d-07b0-4a2e-ad61-948cc9c6cad2.png">
+
 
