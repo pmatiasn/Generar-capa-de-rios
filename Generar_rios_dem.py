@@ -29,4 +29,4 @@ outStreamLink = StreamLink(outCon, outFlow)
 outStreamOrder = StreamOrder(outStreamLink, outFlow)
     
 # Ejecutar la herramienta Stream to Feature
-outStreamFeature = StreamToFeature(outStreamOrder, outFlow, "rios")
+outStreamFeature = StreamToFeature(outStreamOrder, outFlow, "<capa de salida>")
