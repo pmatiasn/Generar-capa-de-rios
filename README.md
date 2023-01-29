@@ -4,3 +4,6 @@ Tener en cuenta que para mejores resultados el modelo debe abarcar una superfici
 
 Se presentan dos procedimientos, por si se desea generar los ríos de un solo modelo o en cambio se desea obtener los ríos de varios modelos a la vez. Teniendo en cuenta en esta última opción que los modelos deben estar todos contenidos dentro de un mismo directorio de trabajo.
 Nota: En caso de requerirse modelos para utilizar este procedimiento se puede ver el siguiente enlace https://github.com/pmatiasn/Descarga-de-modelo
+
+<img width="583" alt="image" src="https://user-images.githubusercontent.com/83612209/215350377-2bef0e9f-725b-49a1-9359-a3787ee33428.png">
+
